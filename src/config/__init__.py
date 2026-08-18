@@ -1,0 +1,1 @@
+"""Конфигурация AutoFL (pydantic-settings)."""

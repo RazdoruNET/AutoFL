@@ -1,0 +1,24 @@
+{
+   "stage_0": "done",
+   "stage_1": "done",
+   "stage_2": "pending",
+   "stage_3": "pending",
+   "stage_4": "pending",
+   "stage_5": "pending",
+   "stage_6": "pending",
+   "stage_7": "pending",
+   "stage_8": "pending",
+   "stage_9": "pending",
+   "stage_10": "pending",
+   "stage_11": "pending",
+   "b1_finance_card": "done",
+   "b2_email": "done",
+   "b3_phone": "done",
+   "b4_captcha": "done",
+   "b5_registrar": "done",
+   "b6_vault_accounts": "pending",
+   "b7_agent_planner": "done",
+   "b8_audit": "pending",
+   "b9_negotiation": "done"
+}
+
